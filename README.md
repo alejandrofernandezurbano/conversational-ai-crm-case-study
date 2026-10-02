@@ -84,4 +84,3 @@ Python 3.10+, no dependencies.
 ## Author
 
 Alejandro Fernández Urbano — Mechatronics engineer, Power Platform & AI automation.
-[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-urbano) · alejandrofernandezurbano@gmail.com
